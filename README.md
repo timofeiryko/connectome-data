@@ -10,9 +10,9 @@ conda env create -f env.yml
 
 ## Project structure
 
-- 'main.ipynb': main notebook with the EDA
-- 'plot.py': helper functions for plotting
-- 'prepare.py': helper functions for data cleaning and preparation
+- `main.ipynb`: main notebook with the EDA
+- `plot.py`: helper functions for plotting
+- `prepare.py`: helper functions for data cleaning and preparation
 
 ## Data
 
